@@ -4,9 +4,9 @@
 
 ### What I do?
 
-- :rocket: I automate everything that moves
+- :rocket: automate everything that moves
 
-- :space_invader: I spend my days hunting for bugs
+- :space_invader: spend my days hunting for bugs
 
-- :computer: I am a freelancer in e2e testing on [Fiverr](https://www.fiverr.com/)
+- :computer: freelancer in e2e testing on [Fiverr](https://www.fiverr.com/)
 
